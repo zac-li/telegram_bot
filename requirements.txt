@@ -1,0 +1,10 @@
+imgkit
+iso8601
+pandas
+python-telegram-bot
+requests
+pdfkit==0.6.1
+wkhtmltopdf-pack-ng==0.12.3.0
+python-pdf
+black
+pytablewriter
